@@ -1,6 +1,6 @@
 <h1>Shoutcast Radio Media Streaming Server on Docker</h1>
 
-DOCKERHUB URL: https://hub.docker.com/r/murderousone/shoutcast
+DOCKERHUB IMAGE URL: https://hub.docker.com/r/murderousone/shoutcast
 
 </hr>
 </h2>IMAGE WILL CONTAIN REALLY SIMPLE BASH SCRIPTS TO MAKE LIFE EASIER. NOTHING CODE SAVY.</h2>
