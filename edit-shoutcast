@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nano /shoutcast/examples/sc_serv_basic.conf
