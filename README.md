@@ -41,7 +41,7 @@ FOR OTHER NON-LINUX OS's
 <h3>Install Docker Compose on Linux</h3>
 
 ```
-sudo curl -L "https://github.com/docker/compose/releases/download/v2.15.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.17.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 <p>To install Docker Compose on other non-Linux OS's <a href="https://docs.docker.com/compose/install/" target="_blank">Click here</a></p>
