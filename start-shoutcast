@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cd shoutcast && ./sc_serv /shoutcast/examples/sc_serv_basic.conf
+
+/./sc_serv /sc_serv_basic.conf
